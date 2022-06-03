@@ -18,5 +18,5 @@ this project was made entirely with React JS framework and MUI system, with the 
 
 - `npm install`
 
-### Para rodar 
+### To Run 
 - `npm run start`
